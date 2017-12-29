@@ -8,9 +8,9 @@
 <page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" layout="admin-1column" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
     <body>
         <referenceBlock name="logo">
-            <action method="setTemplate">
+            <arguments>
                 <argument name="logo_image_src" xsi:type="string">images/21-logo.svg</argument>
-            </action>
+            </arguments>
         </referenceBlock>
     </body>
 </page>
