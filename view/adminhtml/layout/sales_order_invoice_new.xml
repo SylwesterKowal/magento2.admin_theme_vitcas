@@ -1,0 +1,5 @@
+<referenceBlock name='order_items'>
+    <arguments>
+        <argument name='template' xsi:type='string'>Wm21w_AdminTheme::order/invoice/create/items.phtml</argument>
+    </arguments>
+</referenceBlock>
