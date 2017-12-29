@@ -2,11 +2,17 @@
 <page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
     <body>
-        <referenceBlock name="order_items">
-            <action method="setTemplate">
-                <argument name="template" xsi:type="string">Wm21w_AdminTheme::order/invoice/create/items.phtml
-                </argument>
-            </action>
-        </referenceBlock>
+        <referenceContainer name="content">
+        <block class="Magento\Sales\Block\Adminhtml\Order\Invoice\Create" name="sales_invoice_create">
+            <block class="Magento\Sales\Block\Adminhtml\Order\Invoice\Create\Form" name="form"
+                   template="Magento_Sales::order/invoice/create/form.phtml">
+                <referenceBlock name="order_items">
+                    <action method="setTemplate">
+                        <argument name="template" xsi:type="string">Wm21w_AdminTheme::order/invoice/create/items.phtml
+                        </argument>
+                    </action>
+                </referenceBlock>
+            </block>
+        </block>
     </body>
 </page>
