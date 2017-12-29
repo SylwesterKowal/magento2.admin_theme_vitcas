@@ -9,12 +9,10 @@
     <body>
         <referenceBlock name="logo">
             <action method="setTemplate">
-                <arguments>
-                    <argument name="show_part" xsi:type="string">logo</argument>
-                    <argument name="edition" translate="true" xsi:type="string">21w.pl</argument>
-                    <argument name="logo_image_src" xsi:type="string">images/21-logo.svg</argument>
-                    <argument name="logo_alt" xsi:type="string">21w.pl</argument>
-                </arguments>
+                <argument name="show_part" xsi:type="string">logo</argument>
+                <argument name="edition" translate="true" xsi:type="string">21w.pl</argument>
+                <argument name="logo_image_src" xsi:type="string">images/21-logo.svg</argument>
+                <argument name="logo_alt" xsi:type="string">21w.pl</argument>
             </action>
         </referenceBlock>
     </body>
