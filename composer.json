@@ -18,5 +18,6 @@
                 "Wm21w/AdminTheme"
             ]
         ]
-    }
+    },
+    "minimum-stability": "dev"
 }
