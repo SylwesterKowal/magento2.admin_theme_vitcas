@@ -4,13 +4,10 @@
     <body>
         <referenceContainer name="content">
             <block class="Magento\Sales\Block\Adminhtml\Order\Invoice\Create" name="sales_invoice_create">
-                <block class="Magento\Sales\Block\Adminhtml\Order\Invoice\Create\Form" name="form"
-                       template="Magento_Sales::order/invoice/create/form.phtml">
+                <block class="Magento\Sales\Block\Adminhtml\Order\Invoice\Create\Form" name="form" template="Magento_Sales::order/invoice/create/form.phtml">
                     <referenceBlock name="order_items">
                         <action method="setTemplate">
-                            <argument name="template" xsi:type="string">
-                                Wm21w_AdminTheme::order/invoice/create/items.phtml
-                            </argument>
+                            <argument name="template" xsi:type="string">Wm21w_AdminTheme::order/invoice/create/items.phtml</argument>
                         </action>
                     </referenceBlock>
                 </block>
