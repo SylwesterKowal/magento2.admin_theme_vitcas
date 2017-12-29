@@ -1,0 +1,5 @@
+.menu-wrapper .logo .logo-img {
+    height: 7.1rem;
+    transition: -webkit-filter 0.2s linear, filter 0.2s linear, transform 0.1s linear;
+    width: 7.5rem;
+}
