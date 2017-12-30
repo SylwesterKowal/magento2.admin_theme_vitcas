@@ -13,3 +13,12 @@
     width: 24px;
     height: 24px;
 }
+/* Amasty */
+.admin__menu .submenu .parent .submenu-group-title {
+    padding: 1.25rem 0 !important;
+}
+.admin__menu [data-ui-id^="menu-amasty-"] .submenu-group-title span:before, .admin__menu [data-ui-id^="menu-magento-"] [data-ui-id^="menu-magento-"] [data-ui-id^="menu-amasty-"] span:before {
+    background: none !important;
+    width: 0 !important;
+    display: block !important;
+}
