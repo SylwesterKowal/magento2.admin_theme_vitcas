@@ -6,3 +6,8 @@
 .menu-wrapper .logo {
     height: 8.5rem !important;
 }
+
+.copyright .link-copyright:before {
+    content: '' !important;
+    background: url('../images/21-logo-copyright.png') 0 0px no-repeat !important;
+}
