@@ -10,4 +10,6 @@
 .copyright .link-copyright:before {
     content: '' !important;
     background: url('../images/21-logo-copyright.png') 0 0px no-repeat !important;
+    width: 24px;
+    height: 24px;
 }
