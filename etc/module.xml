@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../lib/internal/Magento/Framework/Module/etc/module.xsd">
-    <module name="Wm21w_AdminTheme" setup_version="1.0.29"></module>
+    <module name="Wm21w_AdminTheme" setup_version="1.0.30"></module>
         <sequence>
             <module name="Magento_Theme"/>
             <module name="Magento_Backend"/>

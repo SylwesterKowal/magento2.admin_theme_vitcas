@@ -3,7 +3,6 @@
 "Amasty Order Attributes","Cechy Projektu"
 "Manage Order Attributes","Zarządzaj Cechami"
 "Manage Order Attributes Relations","Zarządzaj Relacjami Cech"
-"Sales","Sprzedaż"
 "Help Desk MX","Zadania"
 "Manage Attributes","Zarządzaj Cechami"
 "Manage Attribute Relations","Zarządzaj Relacjami Cech",
@@ -94,7 +93,6 @@ Order,Zamówienie
 "Edit Attributes For The Order #%1","Edytuj atrybuty dla zamówienia #%1"
 "The order attributes have been updated.","Atrybuty zamówienia zostały zaktualizowane."
 "An error occurred while updating the order attributes.","Wystąpił błąd podczas aktualizowania atrybutów zamówienia."
-Sales,Sprzedaż
 "Attribute Relation","Relacja atrybutów"
 "The Relation has been deleted.","Relacja została usunięta."
 "This Relation does not exist.","Ta relacja nie istnieje."
@@ -177,7 +175,6 @@ Position,Pozycja
 "Please Select Items","Proszę wybrać przedmioty"
 "Orders for archiving is not found!","Nie znaleziono zamówień do archiwizacji"
 "Module is disabled.","Moduł jest wyłączony."
-Sales,Sprzedaż
 "Orders Archives","Archiwa zamówień"
 "Something went wrong: orders haven't been moved. Check settings of extension and be sure that selected orders match the conditions.","Coś poszło nie tak: zamówienia nie zostały przeniesione. Sprawdź ustawienia rozszerzenia i upewnij się, że wybrane zamówienia pasują do warunków"
 "Archive Orders","Projekty Archiwalne"
@@ -962,3 +959,4 @@ Modified,Modified
 "Delete","Delete"
 "We couldn't find any records.","We couldn't find any records."
 "CSV","CSV"
+"Sales","Erp"
