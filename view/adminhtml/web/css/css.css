@@ -22,3 +22,12 @@
     width: 0 !important;
     display: block !important;
 }
+
+/* MirasVit */
+.notifications-entry {
+    padding: 0.1rem 0.8rem !important;
+    border-bottom: solid 1px #eee;
+}
+.admin__action-dropdown-menu > li > a {
+    padding: 0.0rem 0.5rem !important;
+}
