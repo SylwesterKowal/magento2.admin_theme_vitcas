@@ -3,7 +3,6 @@
 "Amasty Order Attributes","Cechy Projektu"
 "Manage Order Attributes","Zarządzaj Cechami"
 "Manage Order Attributes Relations","Zarządzaj Relacjami Cech"
-"Sales","Sprzedaż"
 "Help Desk MX","Zadania"
 "Manage Attributes","Zarządzaj Cechami"
 "Manage Attribute Relations","Zarządzaj Relacjami Cech",
@@ -66,13 +65,13 @@ Save,Zapisz
 "Are you sure you want to do this?","Czy na pewno chcesz to zrobić?"
 Edit,Edytuj
 "-- no value--","-- bez wartości--"
-"Save Order Attributes","Zapisz atrybuty zamówienia"
+"Save Order Attributes","Zapisz Dane Projektu"
 "Attributes' Values","Wartości' atrybutów"
 " "," "
 No,Nie
 Yes,Tak
-Order,Zamówienie
-"Order Attributes","Zamów atrybuty"
+Order,Projekt
+"Order Attributes","Dane Projektu"
 "We can't delete the attribute.","Nie możemy usunąć tego atrybutu."
 "You deleted the order attribute.","Usunąłeś atrybut zamówienia."
 "We can't find an attribute to delete.","Nie możemy znaleźć atrybutu do usunięcia."
@@ -80,7 +79,7 @@ Order,Zamówienie
 "This attribute cannot be edited.","Tego atrybutu nie można edytować."
 "Edit Order Attribute","Edytuj atrybut zamówienia"
 "Order Attribute","Zamów atrybut"
-"Manage Order Attributes","Zarządzaj Cechami"
+"Manage Order Attributes","Zarządzaj Danymi Projektu"
 "You can`t create attribute with this ""Attribute Code"": %1","Nie można utworzyć atrybutu za pomocą tego ""Kodu Atrybutu"": %1"
 "You can`t update this attribute","Nie możesz zaktualizować tego atrybutu"
 "Order attribute was successfully saved.","Atrybut zamówienia został pomyślnie zapisany."
@@ -94,7 +93,6 @@ Order,Zamówienie
 "Edit Attributes For The Order #%1","Edytuj atrybuty dla zamówienia #%1"
 "The order attributes have been updated.","Atrybuty zamówienia zostały zaktualizowane."
 "An error occurred while updating the order attributes.","Wystąpił błąd podczas aktualizowania atrybutów zamówienia."
-Sales,Sprzedaż
 "Attribute Relation","Relacja atrybutów"
 "The Relation has been deleted.","Relacja została usunięta."
 "This Relation does not exist.","Ta relacja nie istnieje."
@@ -144,13 +142,13 @@ Delete,Kasować
 "Date Format","Format daty"
 "Format of date for outputting values","Format daty wyprowadzania wartości"
 "PDF Documents","Dokumenty PDF"
-"Include Order Attributes into Shipment (packing slip)","Dołącz atrybuty zamówienia do przesyłki (dokument dostawy)"
-"Include Order Attributes into Invoice","Dołącz atrybuty zamówienia do faktury"
+"Include Order Attributes into Shipment (packing slip)","Dołącz dane projektu do przesyłki (dokument dostawy)"
+"Include Order Attributes into Invoice","Dołącz dane projektu do faktury"
 "Invoices and Shipments","Faktury i wysyłki"
-"Display Order Attributes on Invoices Grid","Wyświetl atrybuty zamówień w widoku faktur"
-"Display Order Attributes on Invoices View","Wyświetl atrybuty zamówień w widoku faktur"
-"Display Order Attributes on Shipments Grid","Wyświetlaj atrybuty zamówień w widoku przesyłek"
-"Display Order Attributes on Shipments View","Wyświetlaj atrybuty zamówień w widoku przesyłek"
+"Display Order Attributes on Invoices Grid","Wyświetl dane projektu na liście faktur"
+"Display Order Attributes on Invoices View","Wyświetl dane projektu w widoku faktury"
+"Display Order Attributes on Shipments Grid","Wyświetlaj dane projektu na liście wysyłek"
+"Display Order Attributes on Shipments View","Wyświetlaj dane projektu w widoku przesyłki"
 shipment,Wysyłka
 invoice,faktura
 order,zamówienie
@@ -173,11 +171,10 @@ Position,Pozycja
 "Dependent attributes should be configured on the same checkout step as the parent attribute","Atrybuty zależne powinny być skonfigurowane na tym samym kroku kasy jako atrybut nadrzędny"
 "Add New Relation","Dodaj nową relację"
 "Attribute Codes","Kody atrybutów"
-"Edit Order Attributes","Edytuj atrybuty zamówień"
+"Edit Order Attributes","Edytuj dane projektu"
 "Please Select Items","Proszę wybrać przedmioty"
 "Orders for archiving is not found!","Nie znaleziono zamówień do archiwizacji"
 "Module is disabled.","Moduł jest wyłączony."
-Sales,Sprzedaż
 "Orders Archives","Archiwa zamówień"
 "Something went wrong: orders haven't been moved. Check settings of extension and be sure that selected orders match the conditions.","Coś poszło nie tak: zamówienia nie zostały przeniesione. Sprawdź ustawienia rozszerzenia i upewnij się, że wybrane zamówienia pasują do warunków"
 "Archive Orders","Projekty Archiwalne"
@@ -962,3 +959,4 @@ Modified,Modified
 "Delete","Delete"
 "We couldn't find any records.","We couldn't find any records."
 "CSV","CSV"
+"Sales","Erp"
