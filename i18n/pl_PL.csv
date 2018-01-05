@@ -244,82 +244,82 @@ Subtotal,Suma częściowa
 "Payment Method","Metoda płatności"
 "Total Refunded","Całkowity zwrot"
 "Add To Archive","Dodaj do archiwum"
-"Help Desk Tickets (%1)","Help Desk Tickets (%1)"
-"Help Desk Tickets","Help Desk Tickets"
-"Create ticket for this customer","Create ticket for this customer"
-Departments,Departments
-"Add New Department","Add New Department"
-Save,Save
-Delete,Delete
-"Save And Continue Edit","Save And Continue Edit"
-"Edit Department '%1'","Edit Department '%1'"
-"Create New Department","Create New Department"
-"General Information","General Information"
-Title,Title
-"[STORE VIEW]","[STORE VIEW]"
-"Is Active","Is Active"
-No,No
-Yes,Yes
-"Is Show in Frontend","Is Show in Frontend"
-"Sort Order","Sort Order"
-"Sender Email","Sender Email"
-"Members of Department","Members of Department"
-Stores,Stores
-Notification,Notification
-"If ticket is unassigned, send notifications to all department members","If ticket is unassigned, send notifications to all department members"
-"If ticket is unassigned, send notifications to email","If ticket is unassigned, send notifications to email"
-Active,Active
-Store,Store
-Disabled,Disabled
-Enabled,Enabled
-"Change status","Change status"
+"Help Desk Tickets (%1)","Zadanie Help Desk(%1)"
+"Help Desk Tickets","Zadanie Help Desk"
+"Create ticket for this customer","Utwórz zadanie dla tego klienta"
+Departments,Działy
+"Add New Department","Dodaj nowy dział"
+Save,Zapisz
+Delete,Usuń
+"Save And Continue Edit","Zapisz i Kontynuuj edycję"
+"Edit Department '%1'","Edytuj dział '%1'"
+"Create New Department","Utwórz nowy dział"
+"General Information","Informacje ogólne"
+Title,Tytuł
+"[STORE VIEW]","[WIDOK SKLEPU]"
+"Is Active","Jest aktywny"
+No,Nie
+Yes,Tak
+"Is Show in Frontend","Jest wyświetlany w interfejsie użytkownika"
+"Sort Order","Kolejność sortowania"
+"Sender Email","E-mail nadawcy"
+"Members of Department","Pracownicy działu"
+Stores,Sklepy
+Notification,Powiadomienia
+"If ticket is unassigned, send notifications to all department members","Jeśli zadanie nie jest przypisane, wyślij powiadomienia do wszystkich członków działu"
+"If ticket is unassigned, send notifications to email","Jeśli zadanie nie jest przypisane, wyślij powiadomienia na e-mail"
+Active,Aktywny
+Store,Sklep
+Disabled,Wyłączony
+Enabled,Włączony
+"Change status","Zmień status"
 Status,Status
-"Are you sure?","Are you sure?"
-"Custom Fields","Custom Fields"
-"Add New Field","Add New Field"
-"Edit Field '%1'","Edit Field '%1'"
-"Create New Field","Create New Field"
-Code,Code
-Type,Type
-Description,Description
-"Options list","Options list"
+"Are you sure?","Jesteś pewny?"
+"Custom Fields","Pola niestandardowe"
+"Add New Field","Dodaj nowe pole"
+"Edit Field '%1'","Edytuj pola '%1'"
+"Create New Field","Utwórz nowe pole"
+Code,Kod
+Type,Typ
+Description,Opis
+"Options list","Opcje listy"
 "Only for drop-down list. <br>Enter each value from the new line using format:
                     <br>value1 | label1
-                    <br>value2 | label2","Only for drop-down list. <br>Enter each value from the new line using format:
-                    <br>value1 | label1
-                    <br>value2 | label2"
-"Show value in customer account","Show value in customer account"
-"Show in create ticket form","Show in create ticket form"
-"Show in contact us form","Show in contact us form"
-"Required for customers","Required for customers"
-"Required for staff","Required for staff"
+                    <br>value2 | label2","Tylko dla listy rozwijanej. <br>Wprowadź wartość każdego z nowej linii w formacie:
+                    <br>wartość1 | etykieta1
+                    <br>wartość2 | etykieta2"
+"Show value in customer account","Pokaż wartość na koncie klienta"
+"Show in create ticket form","Pokaż w formularzu tworzenia ticketu"
+"Show in contact us form","Pokaż w formularzu kontaktowym"
+"Required for customers","Wymagany dla klientów"
+"Required for staff","Wymagany dla personelu"
 ID,ID
-Gateways,Gateways
-"Add New Gateway","Add New Gateway"
-"Edit Gateway '%1'","Edit Gateway '%1'"
-"Create New Gateway","Create New Gateway"
+Gateways,Brama
+"Add New Gateway","Dodaj nową bramkę"
+"Edit Gateway '%1'","Edytuj bramkę '%1'"
+"Create New Gateway","Utwórz nową bramę"
 Email,Email
 Login,Login
-Password,Password
+Password,Hasło
 Host,Host
-Protocol,Protocol
-Encryption,Encryption
+Protocol,Protokół
+Encryption,Szyfrowanie
 Port,Port
-"Fetch Frequency (minutes)","Fetch Frequency (minutes)"
-"Fetch Max","Fetch Max"
-"Fetch Only X Last Emails","Fetch Only X Last Emails"
-"Can be useful for some mailboxes. Leave empty to disable this feature.","Can be useful for some mailboxes. Leave empty to disable this feature."
-"Remove emails after fetching","Remove emails after fetching"
-"Auto assign tickets to Store View","Auto assign tickets to Store View"
-"Auto assign tickets to department","Auto assign tickets to department"
-Notes,Notes
-"Last Fetched At","Last Fetched At"
-"Last Fetch Result","Last Fetch Result"
+"Fetch Frequency (minutes)","Częstotliwość pobierania (w minutach)"
+"Fetch Max","Pobierz Max"
+"Fetch Only X Last Emails","Pobierz tylko X Ostatnie wiadomości e-mail"
+"Can be useful for some mailboxes. Leave empty to disable this feature.","Może być przydatny w niektórych skrzynkach pocztowych. Pozostaw puste, aby wyłączyć tę funkcję."
+"Remove emails after fetching","Usuń e-maile po pobraniu"
+"Auto assign tickets to Store View","Automatyczne przypisywanie zadań do widoku sklepu"
+"Auto assign tickets to department","Automatyczne przypisywanie zadań do działu"
+Notes,Uwagi
+"Last Fetched At","Ostatnio pobierane w"
+"Last Fetch Result","Ostatni wynik pobierania"
 Tickets,Zadania
-Priorities,Priorities
-Statuses,Statuses
-"Quick Responses","Quick Responses"
-"SPAM patterns","SPAM patterns"
+Priorities,Priorytety
+Statuses,Statusy
+"Quick Responses","Szybkie odpowiedzi"
+"SPAM patterns","Wzorce SPAM"
 Permissions,Permissions
 "Workflow Rules","Workflow Rules"
 "Satisfaction Survey Results","Satisfaction Survey Results"
