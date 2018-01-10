@@ -738,7 +738,7 @@ POP,POP
 IMAP,IMAP
 Great!,Great!
 OK,OK
-Bad,Bad
+Bad,Zła
 "--Please Select--","--Please Select--"
 "New ticket created","New ticket created"
 "New reply from customer","New reply from customer"
@@ -812,13 +812,13 @@ Submit,Submit
 "We are closed","We are closed"
 "Timezone: %1","Timezone: %1"
 "Ticket History","Ticket History"
-"Please take a second to rate my reply...","Please take a second to rate my reply..."
-Great,Great
-Awesome,Awesome
+"Please take a second to rate my reply...","Proszę, poświęć chwilkę i oceń moją odpowiedź..."
+Great,"Dobra"
+Awesome,"Bardzo dobra"
 "Fast, friendly, helpful, pleasant. Great job!","Fast, friendly, helpful, pleasant. Great job!"
-"Just Okay","Just Okay"
+"Just Okay","Po prostu OK"
 "Fine, but definitely could have been better.","Fine, but definitely could have been better."
-"Not good","Not good"
+"Not good","Niedobrze"
 "Unfortunately, I wasn't happy with it at all.","Unfortunately, I wasn't happy with it at all."
 "Thank you for participating in our survey!","Thank you for participating in our survey!"
 "If you would like to provide additional comments, please do so below:","If you would like to provide additional comments, please do so below:"
